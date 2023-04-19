@@ -1,0 +1,20 @@
+﻿Programming Logic & Design;Software Development;images//PRLD.jpeg;325.00;10
+System Analysis and Design;Software Development;images//SAND.jpg;365.00;10
+Principles of Information Security;Software Development;images//PISEC.jpg;440.00;10
+Human Resource Management;Business Administration;images//HRM.jpg;590.00;10
+Business Management;Business Administration;images//BMAN.jpg;540.00;10
+Business Communication;Business Administration;images//BCM.jpg;400.00;12
+Database Principles;Software Development;images//DB.jpg;460.00;15
+Marketing Management;Business Administration;images//MM.jpg;550.00;20
+Succesful Project Management;Business Administration;images//SPROMA.jpg;600.00;15
+Social Psychology;Education;images//SPSYCH.jpg;560.00;20
+Entrepreneurship New Venture Management;Business Administration;images//ENT.jpg;550.00;18
+Psychology;Science;images//PSYCH.jpg;550.00;20
+Biochemical Engineering;Science;images//BE.jpeg;550.00;20
+Chemistry The Central Science;Science;images//CTCS.jpeg;460.00;20
+Graphic Design;Art;images//GD.jpeg;490.00;13
+The Happy Teache's Handbook;Education;images//THTH.jpeg;500.00;30
+Introductory Physics;Science;images//IP.jpeg;470.00;20
+Mathematics;Education;images//MATH.jpeg;500.00;20
+Intergrating Concepts In Biology;Science;images//ICIB.jpeg;600.00;30
+English In Use;Education;images//EIU.jpeg;300.00;20

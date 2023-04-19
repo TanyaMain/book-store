@@ -1,0 +1,5 @@
+Amala;Thingo;st12345001;thiama@schl.com;38dd76a0bc456f1c39a891807b004cce
+Bonolo;Matsei;st12345002;EasyB@schl.com;4a51c74e4dcc9e4b7f14c632dddd804a
+Duduetsang;Molwantwa;st12345003;moldu@gmail.com;29523ab3149ad2a794afee6f1e624e8f
+Luyanda;Xolo;st12345004;xololuyanda@gmail.com;bc0520ca5b775740aa2ac83519e731be
+Kwanda;Odidi;st12345005;Kwanda23@schl.com;ba6dc2d0ec6cfe31376309dbdcdf1def
